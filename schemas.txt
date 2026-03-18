@@ -1,0 +1,3 @@
+select * from my_db.stg_tbls.emp;
+select * from my_db.intg_tbls.emp;
+select * from my_db.streams.emp_stream;
