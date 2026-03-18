@@ -1,2 +1,5 @@
 create or replace stream my_db.streams.emp_stream
 on table my_db.stg_tbls.emp;
+
+create or replace stream my_db.streams.emp_stream1
+on table my_db.stg_tbls.emp;
