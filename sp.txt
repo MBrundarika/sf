@@ -1,0 +1,2 @@
+create or replace storage emp_load_incremental()
+var cmd;
